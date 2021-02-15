@@ -1,5 +1,4 @@
-## Table de vérité de XOR ⊕
-
+## Table de vérité de XOR ⊕ :
 | a | b | a ⊕ b |
 |---|---|:-:|
 | 0 | 0 | 0 |
